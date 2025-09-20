@@ -1,6 +1,6 @@
 # Sentence-Analyzer
 
-This project is a simple JavaScript text analyzer that counts:
+This project is a simple text analyzer that counts:
 
 -Vowels
 
